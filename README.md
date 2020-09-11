@@ -1,2 +1,2 @@
-# Rastgele-Kelime-Olu-turucu
-#Rastgele Kelime Oluşturucu
+# Random Word Generator 
+`random-word-generator`
